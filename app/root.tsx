@@ -16,7 +16,8 @@ export const links: Route.LinksFunction = () => [
     rel: 'preload',
     href: '/Inter.woff2',
     as: 'font',
-    type: 'font/woff2'
+    type: 'font/woff2',
+    crossOrigin: 'anonymous'
   }
 ]
 
