@@ -26,7 +26,7 @@ export function Layout ({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet='utf-8' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <link rel='shortcut icon' href='/logo_walmart.webp' />
+        <link rel='shortcut icon' href='/icon.webp' />
         <Meta />
         <Links />
       </head>
