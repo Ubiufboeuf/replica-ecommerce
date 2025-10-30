@@ -7,6 +7,11 @@
     url(/Inter.woff2) format('woff2');
 }
 
+@theme {
+  --color-primary: #0170DC;
+  --color-secondary: #FFC221;
+}
+
 :root {
   font-family: Inter, "Inter", system-ui;
 }
